@@ -1,5 +1,6 @@
 body {
   padding-top: 54px;
+  background-color: rgba(95, 158, 160, 0.768);
 }
 
 .autor{
@@ -11,6 +12,7 @@ body {
   list-style-type: none;
   padding-left: 5px;
   padding-bottom: 10px;
+  background-color:rgba(153, 205, 50, 0.268);
 }
 
 .list-autor-item {

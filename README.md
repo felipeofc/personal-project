@@ -1,18 +1,5 @@
-# Blog Pessoal - Severino Neto
+# Blog pessoal de Felipe Barros da Silva - Curso Técnico Integrado em Informática IFRN campus JC. 
 
-Repositório criado afim de ter uma boa nota em Projeto Integrador(PI), e ao mesmo tempo treinar meus conhecimentos como dev front-end
-para poder visualizar o meu blog pessoal
-[**clique aqui**](https://oh-netin.github.io/blog-pessoal/index.html) 
-
-----------
-### Tecnologias utilizadas :D
-
-```
-- HTML
-- CSS
-- JavaScript
-- Bootstrap v4.1.1
-- Jquery v3.3.1
-```
-
-
+O repositório criado no GitHub foi feito no intuito de conseguir um bom êxito na matéria de (PI) Projeto Integrador, também 
+ajudando na aprendizagem de outras matérias que compõem a grade curricular do curso, como Autoria Web, utilizando na criação
+(HTML5, CSS3, JS, Bootstrap), e relembrando alguns conceitos do assunto abordado no blog, que é Programação Orientada a Objetos com Java.
